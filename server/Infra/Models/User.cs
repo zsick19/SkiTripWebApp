@@ -14,6 +14,7 @@ public class User
     public string FirstName { get; set; } = string.Empty;
     public string LastName { get; set; } = string.Empty;
     public string PhoneNumber { get; set; } = string.Empty;
+    public string Email { get; set; } = string.Empty;
     public string HomeAddress { get; set; } = string.Empty;
     public string AddressCity { get; set; } = string.Empty;
     public string AddressState { get; set; } = string.Empty;
